@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema><column comment="Message header info; ISO or UNIT" default="" key="false" label="SOURCE_MESSAGE_TYPE" length="25" nullable="true" originalDbColumnName="SOURCE_MESSAGE_TYPE" originalLength="25" pattern="" precision="-1" talendType="id_String" type=""/></schema>

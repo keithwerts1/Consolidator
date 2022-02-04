@@ -1,0 +1,24 @@
+﻿Talend Display Name,Talend Metadata Name,Snowflake Datatype,Other
+Boolean,id_Boolean,For Reference,
+Byte,id_Byte,For Reference,
+byte[],id_byte[],For Reference,
+Character,id_Character,For Reference,
+Date,id_Date,For Reference,
+Double,id_Double,For Reference,
+Float,id_Float,For Reference,
+BigDecimal,id_BigDecimal,For Reference,
+Integer,id_Integer,For Reference,
+Long,id_Long,For Reference,
+Object,id_Object,For Reference,
+Short,id_Short,For Reference,
+List,id_List,For Reference,
+String,id_String,For Reference,
+Document,id_Document,For Reference,
+Date,id_Date,TIMESTAMP_NTZ,"pattern=""&quot;dd-MM-yyyy&quot;"""
+Date,id_Date,TIMESTAMP_LTZ,"pattern=""&quot;dd-MM-yyyy&quot;"""
+String,id_String,VARCHAR,"column comment=""VARCHAR"" "
+Date,id_Date,TIME,"pattern=""&quot;dd-MM-yyyy&quot;"""
+Boolean,id_Boolean,BOOLEAN,
+Character,id_Character,CHAR,
+Float,id_Float,NUMBER,
+Long,id_Long,VARIANT,
